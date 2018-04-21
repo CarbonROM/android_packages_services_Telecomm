@@ -6,3 +6,4 @@
 -keep class android.telecom.Log {
   *;
 }
+-ignorewarnings
